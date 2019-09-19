@@ -1,0 +1,7 @@
+D:\Projects\Technical Test\Technical\bin\Debug\Technical.exe.config
+D:\Projects\Technical Test\Technical\bin\Debug\Technical.exe
+D:\Projects\Technical Test\Technical\bin\Debug\Technical.pdb
+D:\Projects\Technical Test\Technical\obj\Debug\Technical.csprojAssemblyReference.cache
+D:\Projects\Technical Test\Technical\obj\Debug\Technical.csproj.CoreCompileInputs.cache
+D:\Projects\Technical Test\Technical\obj\Debug\Technical.exe
+D:\Projects\Technical Test\Technical\obj\Debug\Technical.pdb
